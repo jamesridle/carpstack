@@ -1,2 +1,4 @@
 # carpstack
-A fully-functioning web hosting stack built on top of Kubernetes and all things Hashicorp.
+A fully-functioning Dockerized web hosting orchestrated by Kubernetes and built with Terraform.
+
+CARPE CARP!
