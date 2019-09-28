@@ -1,0 +1,10 @@
+.terraform/
+*.tfstate
+terraform.tfstate.backup
+*.tmp
+*.backup
+plan.log
+.vscode
+.DS_Store
+*.zip
+
