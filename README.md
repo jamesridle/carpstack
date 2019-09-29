@@ -2,6 +2,7 @@
 
 Terraform for my AWS Stack.
 
+<pre>
 ┏┓ 
 ┃┃╱╲ in
 ┃╱╱╲╲ this
@@ -11,5 +12,4 @@ Terraform for my AWS Stack.
    TEST IN PRODUCTION
 ╱╱┏┳┓╭╮┏┳┓ ╲╲ 
 ▔▏┗┻┛┃┃┗┻┛▕▔
-
-CARPE CARP!
+</pre>
