@@ -1,4 +1,15 @@
 # carpstack
-A fully-functioning Dockerized web hosting orchestrated by Kubernetes and built with Terraform.
+
+Terraform for my AWS Stack.
+
+┏┓ 
+┃┃╱╲ in
+┃╱╱╲╲ this
+╱╱╭╮╲╲ house
+▔▏┗┛▕▔ we
+╱▔▔▔▔▔▔▔▔▔▔╲ 
+   TEST IN PRODUCTION
+╱╱┏┳┓╭╮┏┳┓ ╲╲ 
+▔▏┗┻┛┃┃┗┻┛▕▔
 
 CARPE CARP!
